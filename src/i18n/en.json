@@ -1,0 +1,41 @@
+{
+    "common": {
+        "loading": "Loading...",
+        "cancel": "Cancel",
+        "save": "Save",
+        "delete": "Delete",
+        "edit": "Edit",
+        "today": "Today",
+        "completed": "Completed",
+        "missed": "Missed",
+        "category": "Category (Optional)"
+    },
+    "tasks": {
+        "title": "Daily Tasks",
+        "todo": "To Do",
+        "noTasks": "No tasks for today",
+        "newTask": "New Task",
+        "create": "Create Task",
+        "inputPlaceholder": "What needs to be done?",
+        "categoryPlaceholder": "e.g. Work, Personal"
+    },
+    "money": {
+        "title": "Money Manager",
+        "salary": "Monthly Salary",
+        "obligations": "Obligations",
+        "borrowed": "Borrowed",
+        "obligation": "Obligation",
+        "remaining": "Remaining",
+        "transactions": "Transactions",
+        "noTransactions": "No transactions yet",
+        "newTransaction": "New Transaction",
+        "addTransaction": "Add Transaction",
+        "transactionTitle": "Title",
+        "titlePlaceholder": "e.g. Internet Bill",
+        "amount": "Amount",
+        "category": "Category (Optional)",
+        "categoryPlaceholder": "e.g. Utilities",
+        "paid": "PAID",
+        "unpaid": "UNPAID"
+    }
+}

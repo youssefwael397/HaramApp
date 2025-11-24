@@ -1,0 +1,41 @@
+{
+    "common": {
+        "loading": "جاري التحميل...",
+        "cancel": "إلغاء",
+        "save": "حفظ",
+        "delete": "حذف",
+        "edit": "تعديل",
+        "today": "اليوم",
+        "completed": "مكتملة",
+        "missed": "فائتة",
+        "category": "التصنيف (اختياري)"
+    },
+    "tasks": {
+        "title": "المهام اليومية",
+        "todo": "للقيام به",
+        "noTasks": "لا توجد مهام اليوم",
+        "newTask": "مهمة جديدة",
+        "create": "إنشاء مهمة",
+        "inputPlaceholder": "ماذا تريد أن تنجز؟",
+        "categoryPlaceholder": "مثال: عمل، شخصي"
+    },
+    "money": {
+        "title": "مدير المصاريف",
+        "salary": "الراتب الشهري",
+        "obligations": "التزامات",
+        "borrowed": "سلف / ديون",
+        "obligation": "التزام",
+        "remaining": "المتبقي",
+        "transactions": "المعاملات",
+        "noTransactions": "لا توجد معاملات بعد",
+        "newTransaction": "معاملة جديدة",
+        "addTransaction": "إضافة معاملة",
+        "transactionTitle": "العنوان",
+        "titlePlaceholder": "مثال: فاتورة الإنترنت",
+        "amount": "المبلغ",
+        "category": "التصنيف (اختياري)",
+        "categoryPlaceholder": "مثال: مرافق",
+        "paid": "تم الدفع",
+        "unpaid": "غير مدفوع"
+    }
+}

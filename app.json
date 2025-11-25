@@ -1,12 +1,12 @@
 {
   "expo": {
     "name": "joo-todo-app",
-    "slug": "joo-todo-app",
+    "slug": "haramtodo",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
-    "newArchEnabled": true,
+    "newArchEnabled": false,
     "splash": {
       "image": "./assets/splash-icon.png",
       "resizeMode": "contain",
@@ -29,8 +29,9 @@
     },
     "extra": {
       "eas": {
-        "projectId": "9ebc4a33-58b0-4b6c-a17e-42aa04f30a16"
+        "projectId": "50105ac3-abe1-46e2-8f66-fdefcd071a73"
       }
-    }
+    },
+    "owner": "youssefwael397"
   }
 }
